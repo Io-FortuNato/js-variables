@@ -8,6 +8,17 @@ console.log(myName)
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+const number = 112
+console.log(number)
+console.log(typeof number)
+
+const text = "questa è una stringa"
+console.log(text)
+console.log(typeof text)
+
+const bool = true
+console.log(bool)
+console.log(typeof true)
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
